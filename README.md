@@ -52,3 +52,8 @@ npm install
 cd src
 npm install
 cd ..
+Đóng góp
+Nếu bạn muốn đóng góp cho dự án, vui lòng tạo issue hoặc pull request trên repository.
+
+Liên hệ
+Để biết thêm thông tin, vui lòng liên hệ với đội ngũ phát triển Email:ic.lengocthinh@gmail.com
