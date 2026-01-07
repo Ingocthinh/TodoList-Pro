@@ -1,5 +1,6 @@
 # TODO LIST PRO
-<img width="1899" height="736" alt="image" src="https://github.com/user-attachments/assets/37cff2a7-6c58-4692-8242-f2a83c8451a1" />
+<img width="1571" height="910" alt="image" src="https://github.com/user-attachments/assets/24c74324-03ed-48f2-a95b-872558001895" />
+
 
 
 Ứng dụng quản lý công việc (Todo List) đầy đủ tính năng với React + Vite (Frontend) và Express.js (Backend).
